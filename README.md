@@ -43,7 +43,7 @@ vorlonWrapper.start("http://localhost:1337", "default", false);
 
 Reference file: [samples/contosoflowers/bot/index.js](./samples/contosoflowers/bot/index.js)
 
-3. Inspect your bot
+# Inspect your bot
 
 Vorlon.js is a plugin based tool. Each plugin has a tab which appears in the Dashboard. The code that you referenced inside of your node bot is the *client* part of these plugins.
 This client part is sending information to the dashboard which is then displayed to you.
